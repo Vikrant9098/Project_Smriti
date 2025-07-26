@@ -15,7 +15,7 @@ Smriti -- Your Skills, Remembered and Refined
 
 ##  Overview
 
-SkillSync is a comprehensive learning platform designed to help developers navigate their career progression efficiently. By analyzing existing skills and comparing them against industry-standard roadmaps, it provides personalized learning paths with curated resources from GitHub repositories and educational articles.
+Smriti is a comprehensive learning platform designed to help developers navigate their career progression efficiently. By analyzing existing skills and comparing them against industry-standard roadmaps, it provides personalized learning paths with curated resources from GitHub repositories and educational articles.
 
 ###  Problem Statement
 - Developers often struggle to identify skill gaps for their target roles
@@ -24,7 +24,7 @@ SkillSync is a comprehensive learning platform designed to help developers navig
 - No centralized platform to track learning progress
 
 ###  Solution
-SkillSync addresses these challenges by:
+Smriti addresses these challenges by:
 - **Automated Gap Analysis**: Compares your skills against role requirements
 - **Curated Resources**: Fetches real-time repositories and articles
 - **Progress Tracking**: Monitors learning journey with session persistence
