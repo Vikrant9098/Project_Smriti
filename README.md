@@ -605,8 +605,6 @@ If you find Smiriti helpful, please consider:
 
 <div align="center">
 
-**Made with ❤️ for the developer community**
 
-[⬆ Back to Top](#-skillsync---personalized-developer-learning-roadmaps)
 
 </div>
